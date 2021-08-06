@@ -1,4 +1,5 @@
 # DeepSatData: Building large scale datasets of satellite images for training machine learning models
+# 用于从卫星图像制作数据集，适用于训练机器学习模型的工具包
 ![plot](./diagram.png)
 DeepSatData is a toolkit for making datasets from satellite imagery suitable for training machine learning models. 
 The process is split into two distinct parts:
